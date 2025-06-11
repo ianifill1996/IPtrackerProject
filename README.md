@@ -1,6 +1,8 @@
 # IP Tracker Project 🌐
-[Click here for IP Tracker](https://ianifill1996.github.io/IPtrackerProject/)
+
 A simple and interactive web application that allows users to track IP address information using a third-party IP Geolocation API.
+
+[Click here for IP Tracker](https://ianifill1996.github.io/IPtrackerProject/)
 
 ## 🔍 Features
 
